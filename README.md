@@ -1,4 +1,4 @@
-# Supply Chain Logistics Network Optimization
+# Supply Chain Logistics Network Optimization using Mixed-Integer Programming
 
 A mixed-integer optimization model for allocating limited supply capacity across a logistics network while minimizing transportation, facility operating, and unmet-demand costs.
 

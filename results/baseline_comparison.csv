@@ -1,0 +1,5 @@
+scenario,transportation_cost
+Baseline (no cost optimization),1336.95805
+Optimized (MIP),1263.254062
+Saving,73.70398799999998
+Saving (%),5.5128123129966555
